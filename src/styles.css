@@ -9,26 +9,31 @@
 .h1head{
     display: block;
     text-align: center;
-    color: crimson;
+    color: rgb(22, 151, 231);
     font-family: "Lucida Console";
 }
 
 body{
-    background-color: #171717;
-background-image: url("https://www.transparenttextures.com/patterns/cutcube.png");
+    background-color: lightgray;
+
 
 
 }
 
 .todo{
-    background-color:#5c5859d2 !important;
+    background-color:#8d8d9ce3 !important;
     color: white;
+    border-radius: 10px;
 }
 .todo-submit{
     border-radius: 10px;
     background-color: #8d8d9ce3 !important;
+    
 }
 
 .delete{
-    background-color: crimson;
+    background-color: rgb(37, 64, 214);
+    color: aliceblue;
+    border-radius: 10px;
+    padding: 5px;
 }
